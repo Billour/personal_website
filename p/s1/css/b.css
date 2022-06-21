@@ -1,0 +1,20 @@
+
+
+.tagline-upper {
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 1;
+}
+
+h1, h2, h3, h4, h5, h6, .text-heading {
+    font-family: "Josefin Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.text-shadow {
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+.text-expanded {
+    letter-spacing: 2px;
+}
+
